@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Ruchit Agrawal, <b>Vighnesh Chenthil Kumar</b>, Vigneshwaran Muralidharan, Dipti Sharma: <br>
+<b>[No more beating about the bush: A step towards Idiom Handling for Indian Language NLP](https://aclweb.org/anthology/L18-1048). <br>Language Resources and Evaluation Conference (LREC) 2018, Miyazaki, Japan</b>
