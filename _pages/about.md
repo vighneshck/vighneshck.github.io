@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="https://vighneshck.github.io/files/dp.jpg?raw=true" alt="Photo" style="width: 400px;"/>
-</p>
+
 
 * I am currently pursuing my Master of Science (Computer Science) at the [University of Melbourne](https://www.unimelb.edu.au), Australia.
 * I completed my Bachelor's degree in Computer Science and Engineering (CSE), with an honours in Natural Language Processing (NLP), at [IIIT-Hyderabad](https://www.iiit.ac.in/), India.
